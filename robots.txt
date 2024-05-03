@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: */signUp/*
+Disallow: */signIn/*
+Disallow: */cart/*
+Disallow: */View/*
+Disallow: */shop/*
+allow: /
